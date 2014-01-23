@@ -1,0 +1,57 @@
+U:\3rd Year\AC31001\DNS\new>java lookup bbc.co.uk
+SOA: bbc.co.uk:bbc.co.uk.       801 IN SOA              ns.bbc.co.uk. hostmaster
+.bbc.co.uk. (
+                                        2004102702      ; serial
+                                        1800    ; refresh
+                                        600     ; retry
+                                        864000  ; expire
+                                        900 )   ; minimum
+
+
+
+U:\3rd Year\AC31001\DNS\new>java lookup btinternet.com
+SOA: btinternet.com:btinternet.com.     79189 IN SOA            oxygen.mprn.btin
+ternet.com. hostmaster.btinternet.com. (
+                                        2004180614      ; serial
+                                        21600   ; refresh
+                                        360     ; retry
+                                        60480   ; expire
+                                        8640 )  ; minimum
+
+
+
+U:\3rd Year\AC31001\DNS\new>java lookup demon.com
+SOA: demon.com:demon.com.       79178 IN SOA            ns0.demon.co.uk. hostmas
+ter.demon.net. (
+                                        2004091601      ; serial
+                                        10800   ; refresh
+                                        1800    ; retry
+                                        604800  ; expire
+                                        7200 )  ; minimum
+
+
+
+U:\3rd Year\AC31001\DNS\new>java lookup sol.co.uk
+SOA: sol.co.uk:sol.co.uk.       79175 IN SOA            dns.scotland.net. hostma
+ster.sol.co.uk. (
+                                        2000108942      ; serial
+                                        28800   ; refresh
+                                        7200    ; retry
+                                        864000  ; expire
+                                        1800 )  ; minimum
+
+
+
+
+U:\3rd Year\AC31001\DNS\new>java lookup primenet.com
+SOA: primenet.com:primenet.com. 2466 IN SOA             gblx.net. dns.gblx.net.
+(
+                                        2004092100      ; serial
+                                        7200    ; refresh
+                                        1800    ; retry
+                                        604800  ; expire
+                                        14400 ) ; minimum
+
+
+
+
